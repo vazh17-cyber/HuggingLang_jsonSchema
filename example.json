@@ -1,0 +1,16 @@
+[
+    {
+        "user_id": 1,
+        "email": "alice@example.com",
+        "signup_date": "2023-01-10",
+        "is_active": true,
+        "orders": 5
+    },
+    {
+        "user_id": 2,
+        "email": "bob@example.com",
+        "signup_date": "2023-02-03",
+        "is_active": false,
+        "orders": 1
+    }
+]
